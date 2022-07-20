@@ -1,0 +1,12 @@
+D:\_My_Games\_War\War_MapMaker\War_MapMaker\bin\Debug\War_MapMaker.exe.config
+D:\_My_Games\_War\War_MapMaker\War_MapMaker\bin\Debug\War_MapMaker.exe
+D:\_My_Games\_War\War_MapMaker\War_MapMaker\bin\Debug\War_MapMaker.pdb
+D:\_My_Games\_War\War_MapMaker\War_MapMaker\obj\Debug\War_MapMaker.Form1.resources
+D:\_My_Games\_War\War_MapMaker\War_MapMaker\obj\Debug\War_MapMaker.Properties.Resources.resources
+D:\_My_Games\_War\War_MapMaker\War_MapMaker\obj\Debug\War_MapMaker.csproj.GenerateResource.cache
+D:\_My_Games\_War\War_MapMaker\War_MapMaker\obj\Debug\War_MapMaker.csproj.CoreCompileInputs.cache
+D:\_My_Games\_War\War_MapMaker\War_MapMaker\obj\Debug\War_MapMaker.exe
+D:\_My_Games\_War\War_MapMaker\War_MapMaker\obj\Debug\War_MapMaker.pdb
+D:\_My_Games\_War\War_MapMaker\War_MapMaker\obj\Debug\War_MapMaker.Editor.resources
+D:\_My_Games\_War\War_MapMaker\War_MapMaker\obj\Debug\War_MapMaker.Attention.resources
+D:\_My_Games\_War\War_MapMaker\War_MapMaker\obj\Debug\War_MapMaker.csproj.AssemblyReference.cache

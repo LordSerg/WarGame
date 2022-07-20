@@ -1,0 +1,11 @@
+D:\_My_Games\_War\War\War\bin\Debug\War.exe.config
+D:\_My_Games\_War\War\War\bin\Debug\War.exe
+D:\_My_Games\_War\War\War\bin\Debug\War.pdb
+D:\_My_Games\_War\War\War\obj\Debug\War.Form1.resources
+D:\_My_Games\_War\War\War\obj\Debug\War.Properties.Resources.resources
+D:\_My_Games\_War\War\War\obj\Debug\War.csproj.GenerateResource.cache
+D:\_My_Games\_War\War\War\obj\Debug\War.csproj.CoreCompileInputs.cache
+D:\_My_Games\_War\War\War\obj\Debug\War.exe
+D:\_My_Games\_War\War\War\obj\Debug\War.pdb
+D:\_My_Games\_War\War\War\obj\Debug\War.Game.resources
+D:\_My_Games\_War\War\War\obj\Debug\War.csproj.AssemblyReference.cache

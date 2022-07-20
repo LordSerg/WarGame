@@ -1,0 +1,2 @@
+D:\_My_Games\_War\WarLib\WarLib\obj\Debug\WarLib.csproj.AssemblyReference.cache
+D:\_My_Games\_War\WarLib\WarLib\obj\Debug\WarLib.csproj.CoreCompileInputs.cache
